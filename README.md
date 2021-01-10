@@ -1,11 +1,12 @@
 ### Hi there, I'm Vivi Lin 👋
 
 Think as a software developer, execute like an auditor, and develop like a designer.<br>
-I'm Front-End developer who is passionate to learn new skills for developing and problem-solving.
+I'm a Front-End developer who is passionate to learn new skills for developing and problem-solving.
 
 #### My Projects
 - PICA: An online designing tool integrated with exploring and sharing systems
 - STYLiSH: An e-commerce RWD website built with plain JavaScript
+<p>Please find details through the following repositories.<p>
 
 #### Contact
 If you have any questions, please contact me through email.
