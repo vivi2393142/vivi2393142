@@ -6,7 +6,7 @@ I'm a Front-End developer who is passionate to learn new skills for developing a
 #### My Projects
 - PICA: An online designing tool integrated with exploring and sharing systems
 - STYLiSH: An e-commerce RWD website built with plain JavaScript
-<p>Please find details through the following repositories.<p>
+- ecoBites: AI-powered recipes to reduce food waste which is made in BrisHackathon 2025.
 
 #### Contact
 If you have any questions, please contact me through email.
