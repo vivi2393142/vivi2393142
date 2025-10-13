@@ -38,7 +38,7 @@ _React · Firebase · CSS Modules · Responsive UI_
 - RESTful APIs, GraphQL, Axios
 
 **Backend**  
-- Python, Java
+- Python, Java, C
 - FastAPI, MySQL, LLM Integration
 
 **Tools & Workflow**  
