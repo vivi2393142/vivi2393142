@@ -12,7 +12,7 @@ I focus on building clean, maintainable, and user-friendly products with strong 
 Mobile app for memory-impaired users and caregivers with voice interaction, shared tasks, and real-time updates.  
 _React Native · FastAPI · LLM Integration · Google Maps API_
 
-#### [ecoBites](https://github.com/vivi2393142/ecoBites-web)  <img src="https://github.com/vivi2393142/ecoBites-web/blob/main/public/favicon.ico" width="16" height="16" />  
+#### [Eco Bites](https://github.com/vivi2393142/ecoBites-web)  <img src="https://github.com/vivi2393142/ecoBites-web/blob/main/public/favicon.ico" width="16" height="16" />  
 
 AI-powered recipe recommender that won a **Special Award** at BrisHackathon 2025.  
 _React · TypeScript · Figma · Rapid Prototyping_
