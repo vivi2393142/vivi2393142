@@ -1,16 +1,59 @@
-### Hi there, I'm Vivi Lin 👋
+### Hi there, I'm Vivi 👋
 
-Think as a software developer, execute like an auditor, and develop like a designer.<br>
-I'm a Front-End developer who is passionate to learn new skills for developing and problem-solving.
+I'm a software developer with over 4 years of experience in frontend development and full-stack collaboration.  
+I’ve worked with teams of engineers, PMs, designers, and clients, and have also independently developed complete frontends.  
+I focus on building clean, maintainable, and user-friendly products with strong engineering discipline.
 
-#### My Projects
-- PICA: An online designing tool integrated with exploring and sharing systems
-- STYLiSH: An e-commerce RWD website built with plain JavaScript
-- ecoBites: AI-powered recipes to reduce food waste which is made in BrisHackathon 2025.
+---
 
-#### Contact
-If you have any questions, please contact me through email.
-- email: vivi2393142@gmail.com
+### 🚀 Projects
+#### [Ting Mate](https://github.com/vivi2393142/ting-mate-frontend)  <img src="https://github.com/vivi2393142/ting-mate-frontend/blob/main/src/assets/images/favicon.png" width="16" height="16" />  
+
+Mobile app for memory-impaired users and caregivers with voice interaction, shared tasks, and real-time updates.  
+_React Native · FastAPI · LLM Integration · Google Maps API_
+
+#### [ecoBites](https://github.com/vivi2393142/ecoBites-web)  <img src="https://github.com/vivi2393142/ecoBites-web/blob/main/public/favicon.ico" width="16" height="16" />  
+
+AI-powered recipe recommender that won a **Special Award** at BrisHackathon 2025.  
+_React · TypeScript · Figma · Rapid Prototyping_
+
+#### [PICA](https://github.com/vivi2393142/PICA)  <img src="https://github.com/vivi2393142/PICA/blob/main/public/favicon.png" width="16" height="16" />  
+
+A **canvas-like design platform** for creating and sharing visuals, one of my early projects exploring complex frontend logic.  
+_React · Firebase · CSS Modules · Responsive UI_
+  
+---
+
+### 💻 Tech Stack
+**Frontend**  
+- React (Hooks), React Native,
+- JavaScript (ES6), TypeScript, HTML, CSS, SCSS, HTML5 video & audio (HLS)
+- RWD, i18n (i18next)
+
+**Frontend Libraries**  
+- Next.js, Styled Components, Material UI
+- Redux, React Context, Jotai, React Router 
+
+**APIs & Networking**  
+- RESTful APIs, GraphQL, Axios
+
+**Backend**  
+- Python, Java
+- FastAPI, MySQL, LLM Integration
+
+**Tools & Workflow**  
+- Linter: ESLint, StyleLint, Prettier
+- Version Control: Git, GitHub, GitLab
+- Cloud: Firebase, AWS
+- AI Tools: GitHub Copilot, Cursor  
+- Agile / Scrum: Jira, Monday, Trello, Notion  
+
+---
+
+### 📫 Contact
+**Email:** vivi2393142@gmail.com  
+Always open to tech discussions and collaboration!
+
 
 <!--
 **vivi2393142/vivi2393142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
