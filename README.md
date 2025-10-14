@@ -6,7 +6,7 @@ I focus on building clean, maintainable, and user-friendly products with strong 
 
 ---
 
-### 🚀 Projects
+### 🚀 Personal Projects
 #### [Ting Mate](https://github.com/vivi2393142/ting-mate-frontend)  <img src="https://github.com/vivi2393142/ting-mate-frontend/blob/main/src/assets/images/favicon.png" width="16" height="16" />  
 
 Mobile app for memory-impaired users and caregivers with voice interaction, shared tasks, and real-time updates.  
@@ -37,14 +37,14 @@ _React · Firebase · CSS Modules · Responsive UI_
 **APIs & Networking**  
 - RESTful APIs, GraphQL, Axios
 
-**Backend**  
+**Backend & Other**  
 - Python, Java, C
 - FastAPI, MySQL, LLM Integration
 
 **Tools & Workflow**  
 - Linter: ESLint, StyleLint, Prettier
 - Version Control: Git, GitHub, GitLab
-- Cloud: Firebase, AWS
+- Deployment: Docker, Jenkins, Firebase, AWS
 - AI Tools: GitHub Copilot, Cursor  
 - Agile / Scrum: Jira, Monday, Trello, Notion  
 
