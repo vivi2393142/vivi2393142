@@ -32,7 +32,7 @@ _React · Firebase · CSS Modules · Responsive UI_
 
 **Frontend Libraries**  
 - Next.js, Styled Components, Material UI
-- Redux, React Context, Jotai, React Router 
+- Redux, React Context, Jotai, Zustand, React Route, Zod
 
 **APIs & Networking**  
 - RESTful APIs, GraphQL, Axios
